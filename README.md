@@ -22,3 +22,4 @@ Firstly, get languages.json with programming language stastics by get.py
 Then visualization.html can use this json file and d3js
 
 Final result: https://github.com/scyqa1/SE_Measurement/blob/master/data.png
+![Image text]( https://github.com/scyqa1/SE_Measurement/blob/master/data.png)
