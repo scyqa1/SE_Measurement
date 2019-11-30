@@ -1,0 +1,38 @@
+language_data=
+[
+  {
+    "language": "JavaScript",
+    "value": 3940832
+
+  },
+  {
+    "language": "Python",
+    "value": 1064829
+
+  },
+  {
+    "language": "HTML",
+    "value": 783455
+
+  },
+  {
+    "language": "CSS",
+    "value": 618772
+
+  },
+  {
+    "language": "TSQL",
+    "value": 8816
+
+  },
+  {
+    "language": "Shell",
+    "value": 5467
+
+  },
+  {
+    "language": "Dockerfile",
+    "value": 964
+
+  }
+]
